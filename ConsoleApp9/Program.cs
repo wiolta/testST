@@ -11,7 +11,7 @@ namespace ConsoleApp9
             Console.WriteLine("hej");
             Console.WriteLine("smerf");
             Console.WriteLine("krasnalik");
-            Console.WriteLine("ppp");
+            Console.WriteLine("pppik");
         }
     }
 }
