@@ -11,6 +11,7 @@ namespace ConsoleApp9
             Console.WriteLine("hej");
             Console.WriteLine("smerf");
             Console.WriteLine("krasna");
+            Console.WriteLine("");
         }
     }
 }
