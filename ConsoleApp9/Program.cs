@@ -9,7 +9,7 @@ namespace ConsoleApp9
             Console.WriteLine("Hello World olo!");
             Console.WriteLine("Hello !");
             Console.WriteLine("hej");
-            Console.WriteLine("c");
+            Console.WriteLine("h");
             Console.WriteLine("local");
             Console.WriteLine("pppik");
         }
