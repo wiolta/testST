@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\test\\testST\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\test1\\testST\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\test\\testST\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\test1\\testST\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\testST\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\test1\\testST\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\test\\testST\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\test1\\testST\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\wiola\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\testST\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\test1\\testST\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
