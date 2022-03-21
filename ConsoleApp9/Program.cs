@@ -12,7 +12,7 @@ namespace ConsoleApp9
             Console.WriteLine("h");
             Console.WriteLine("local");
             Console.WriteLine("popik");
-            Console.WriteLine("lala");
+            Console.WriteLine("zdalne");
         }
     }
 }
