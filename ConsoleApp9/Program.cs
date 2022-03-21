@@ -10,7 +10,7 @@ namespace ConsoleApp9
             Console.WriteLine("Hello !");
             Console.WriteLine("hej");
             Console.WriteLine("smerf");
-            Console.WriteLine("krasnal");
+            Console.WriteLine("krasna");
         }
     }
 }
