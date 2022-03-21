@@ -7,6 +7,8 @@ namespace ConsoleApp9
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World olo!");
+            Console.WriteLine("Hello !");
+            Console.WriteLine("hej");
         }
     }
 }
