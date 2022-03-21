@@ -10,7 +10,7 @@ namespace ConsoleApp9
             Console.WriteLine("Hello !");
             Console.WriteLine("hej");
             Console.WriteLine("");
-            Console.WriteLine("");
+            Console.WriteLine("remote");
             Console.WriteLine("pppik");
         }
     }
