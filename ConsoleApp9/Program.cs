@@ -11,7 +11,7 @@ namespace ConsoleApp9
             Console.WriteLine("hej");
             Console.WriteLine("h");
             Console.WriteLine("local");
-            Console.WriteLine("pppiz");
+            Console.WriteLine("");
         }
     }
 }
