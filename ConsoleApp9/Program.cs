@@ -9,9 +9,9 @@ namespace ConsoleApp9
             Console.WriteLine("Hello World olo!");
             Console.WriteLine("Hello !");
             Console.WriteLine("hej");
-            Console.WriteLine("smerf");
-            Console.WriteLine("krasnalik");
-            Console.WriteLine("pppooolllin");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("pppik");
         }
     }
 }
