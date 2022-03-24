@@ -15,6 +15,7 @@ namespace ConsoleApp9
             Console.WriteLine("lokalne");
             Console.WriteLine("lokalny komit z st");
             Console.WriteLine("tomek");
+            Console.WriteLine("iza");
         }
     }
 }
