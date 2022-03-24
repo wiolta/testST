@@ -14,7 +14,7 @@ namespace ConsoleApp9
             Console.WriteLine("popik");
             Console.WriteLine("lokalne");
             Console.WriteLine("lokalny komit z st");
-            Console.WriteLine("zmiana git");
+            Console.WriteLine("");
         }
     }
 }
