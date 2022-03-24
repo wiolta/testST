@@ -13,7 +13,7 @@ namespace ConsoleApp9
             Console.WriteLine("local");
             Console.WriteLine("popik");
             Console.WriteLine("lokalne");
-            Console.WriteLine("lokal");
+            Console.WriteLine("zmiana git");
         }
     }
 }
